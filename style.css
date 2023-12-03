@@ -8,12 +8,6 @@ body {
     font-family: 'Outfit', sans-serif;
 }
 
-main {
-/*     display: flex;
-    justify-content: center; */
-/*     margin-top: 150px 0;  */
-}
-
 p {
     font-size: 15px;
     margin: 20px 0;
@@ -42,4 +36,13 @@ img {
     width: 100%;
     height: auto;
     border-radius: 10px;
+}
+
+.attribution {
+    font-size: 11px; 
+    text-align: center;
+}
+
+.attribution a{
+    color: hsl(228, 45%, 44%);
 }
