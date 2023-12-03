@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/Almopt/QR-Code-Challenge]
-- Live Site URL: [Add live site URL here](https://almopt.github.io/QR-Code-Challenge/)
+- Live Site URL: [https://almopt.github.io/QR-Code-Challenge/]
 
 ## My process
 After some basic chapters of HTML & CSS Fundamentals of Full Stacks Engineer Course from Codecademy this was an attempt to test my knowledge. Used only basic Sematic HTML and basic CSS.
